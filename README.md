@@ -1,4 +1,4 @@
-Console encryptor decryptor has the folowing arguments which should be passed:  
+CLI encryptor decryptor has the folowing arguments which should be passed:  
 **`-mode`** — could be "enc" or "dec" which means encoding or decoding respectively.  
 **`-key`**  — integer which is used to en/decrypt data.  
 **`-data`** — string which should be en/decrypted. If both data and in are passed, program will prefer `-data` over `-in`  
